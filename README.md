@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi. I’m Chris, a Full Stack Web Developer with over 20 years of creating successful websites 👋
 
 - 🔭 I’m currently working on Harvard CS50 Intro To Computer Science Course
 - 🌱 I’m currently working on learning both Python and Javascript
